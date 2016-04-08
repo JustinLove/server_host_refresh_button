@@ -4,9 +4,9 @@
   "category": ["titans", "lobby"],
   "context": "client",
   "date": "2016/04/05",
-  "description": "Adds a brefresh button to the game lobby when server mods finish loading, so you can load ui updates when ready.",
+  "description": "Adds a refresh button to the game lobby when server mods finish loading, so you can load ui updates when ready.",
   "display_name": "Server Host Refresh Button",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-server-host-refresh-button.71600/",
   "identifier": "com.wondible.pa.server_host_refresh_button",
   "priority": 100,
   "scenes": {
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
