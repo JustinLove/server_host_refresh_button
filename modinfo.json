@@ -1,0 +1,20 @@
+{
+  "author": "wondible",
+  "build": "89755",
+  "category": ["titans", "lobby"],
+  "context": "client",
+  "date": "2016/04/05",
+  "description": "Adds a brefresh button to the game lobby when server mods finish loading, so you can load ui updates when ready.",
+  "display_name": "Server Host Refresh Button",
+  "forum": null,
+  "identifier": "com.wondible.pa.server_host_refresh_button",
+  "priority": 100,
+  "scenes": {
+    "new_game": [
+      "coui://ui/mods/server_host_refresh_button/new_game.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
